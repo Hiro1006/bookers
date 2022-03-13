@@ -1,3 +1,16 @@
+.notification {
+  color:green;
+  text-align: center
+}
+
+ .notice {
+   background-color: lightblue;
+ }
+ 
+ .alert {
+   background-color: alert_orange;
+ }
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
